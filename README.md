@@ -1,6 +1,6 @@
 # Soluções de Programação em Python
 
-Este repositório contém soluções para cinco desafios de programação em Python.
+Este repositório contém soluções para cinco desafios de programação em Python para o programa de estágio da Target Sistemas.
 
 ## Problemas Resolvidos
 
