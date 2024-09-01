@@ -31,10 +31,10 @@ Este repositório contém soluções para cinco desafios de programação em Pyt
 ## Contatos
 Se você tiver dúvidas, sugestões ou precisar de ajuda adicional, entre em contato:
 
-### Dados Básicos
+#### Dados Básicos
 - Nome: Ruan Guedes Vieira
 - E-mail: vieira123ruangv@gmail.com
 
-### Páginas
+#### Páginas
 - [GitHub](https://github.com/R-gu3des)
 - [LinkedIn](https://www.linkedin.com/in/ruan-guedes-vieira-b82441180)
