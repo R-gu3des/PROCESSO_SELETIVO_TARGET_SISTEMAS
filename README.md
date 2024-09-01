@@ -22,12 +22,6 @@ Este repositório contém soluções para cinco desafios de programação em Pyt
 5. **Percentual de Representação por Estado**
    - Um programa que calcula o percentual de representação de cada estado no faturamento total mensal da distribuidora.
 
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/R-gu3des/PROCESSO_SELETIVO_TARGET_SISTEMAS.git
-
 ## Contatos
 Se você tiver dúvidas, sugestões ou precisar de ajuda adicional, entre em contato:
 
